@@ -2,3 +2,7 @@ my kitchen recipe
 
 kheer 
 panir
+
+chiken
+
+egg curry
